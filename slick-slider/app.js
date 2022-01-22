@@ -9,7 +9,7 @@ $(document).ready(function(){ //mục getting start
         // arrows: false, // ẩn pre & next
         graggable: true,
         autoplay: true,  // tự động chạy
-        autoplaySpeed: 1000, // 2000 là 2s
+        autoplaySpeed: 2000, // 2000 là 2s
         //mũi tên arrow link: slick slider custom arrows -> https://stackoverflow.com/questions/29876185/change-the-arrow-buttons-in-slick-slider
          prevArrow:
              `<button type='button' class='slick-prev pull-left'><ion-icon name="arrow-back-outline"></ion-icon></button>`,
